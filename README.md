@@ -13,10 +13,10 @@
     
 -Code:
 
-  ·Character Selection scene
-  ·Item Selection scene
-  ·In game Window
-  ·End scene
+    ·Character Selection scene
+    ·Item Selection scene
+    ·In game Window
+    ·End scene
 
 
 
